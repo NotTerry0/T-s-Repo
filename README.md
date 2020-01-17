@@ -1,3 +1,3 @@
 # T-s-Repo
 Whatever I throw on here.
-Developing a few themes for Exo/Exobar by Nepeta. Open source because what am I, the leading developers of the brand new JB?
+Throwing mostly Exobar themes on here, might go into Xenhtml, stay tuned. The theme.html on the front of the repo is pointless, see /T-s-Repo/Themes for real files.
